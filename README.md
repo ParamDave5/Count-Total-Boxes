@@ -1,2 +1,2 @@
 # Count-Total-Boxes
-a simple greedy approach to count number of different size boxes to fit x number of items
+A simple greedy approach in C++ to count number of different size boxes to fit x number of items
